@@ -1,6 +1,4 @@
-#Stephanie Shi (stjshi@ucsc.edu)
-#Pair Programming Partner: Christian Lam (ctlam@ucsc.edu)
-#Pa4
+
 
 input1 = input("Enter the initial deposit:")
 input2 = input("Enter the annual interest rate in %:")
