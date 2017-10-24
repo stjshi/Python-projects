@@ -1,6 +1,4 @@
-#Stephanie Shi (stjshi@ucsc.edu)
-#Pair programming with: Christian Lam (ctlam@ucsc.edu)
-#Pa 6
+
 
 import math
 
