@@ -1,6 +1,4 @@
- #Stephanie Shi (stjshi)
- #Pair programming partner: Christian Lam (ctlam)
- #Pa 7
+
 
  #print error message and quit the program if number> 999999999
 
