@@ -1,6 +1,3 @@
-#Stepanie Shi (stjshi)
-#Pair programming partner: Christian Lam (ctlam)
-#Pa 8
 
 def inc(n):
 	return n+1
