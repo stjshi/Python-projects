@@ -1,6 +1,4 @@
-#Stephanie Shi (stjshi@ucsc.edu)
-#Pair programming partner: Christian Lam (ctlam@ucsc.edu)
-#PA5 
+
 
 #take in 3 inputs (A, B, C)
 a = input("DNA Sequence A:")
